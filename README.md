@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Universidad Austral de Chile
 
 # INFO257: Inteligencia Artificial (Modulo "Aprendizaje supervisado")
@@ -44,3 +45,7 @@ Programa 2020 (algunos cambios menores posibles): [[INFO257_2020]](https://docs.
 - Ambiente: [IPython](https://ipython.org), [Jupyter](https://jupyter.org/)
 - Librerías: [Numpy](http://www.numpy.org/), [Pandas](https://pandas.pydata.org/), [Scipy](https://www.scipy.org/)
 
+=======
+# Respuesta-infot252
+Respuestas del curso inteligencia artificial
+>>>>>>> dcc3057c3a825193e0fd5382624e90785ac94a47
